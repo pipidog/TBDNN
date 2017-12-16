@@ -7,8 +7,8 @@ networks from the output of density functional theory (DFT)calculatons.
        
 This is an ongoing project and I will update new results frequently. Stay tuned.     
 
-<span style="background-color: #ff0000">This project was supported via the nVidia Academic Program</span>
-             
-You can check the propoal here:[TBDNN Proposal](https://github.com/pipidog/TBDNN/blob/master/TBDNN%20proposal.pdf)    
+<p> <span style="color:red">This project was supported via the nVidia Academic Program.</span></p>
+
+For details of the project -> [TBDNN Proposal](https://github.com/pipidog/TBDNN/blob/master/TBDNN%20proposal.pdf)    
 
 For qeuestions, please contact: spi@ucdavis.edu
