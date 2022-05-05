@@ -12,3 +12,8 @@ This is an ongoing project and I will update new results frequently. Stay tuned.
 For details of the project -> [TBDNN Proposal](https://github.com/pipidog/TBDNN/blob/master/TBDNN%20proposal.pdf)    
 
 For qeuestions, please contact: spi@ucdavis.edu
+
+======
+
+Update: 
+We have guided a master student to study this topic few years ago. It you want more details, please email to spi@ucdavis.edu. 
